@@ -8,7 +8,7 @@ Through this report, we aim to provide actionable guidance to help technologists
 
 ## 📄 View the DPG SCoRe 2024 Report
 
-Click [here](https://github.com/Code4GovTech/DPG-SCoRe/blob/main/DPG%20SCoRe%202024) to view the full report.
+Click [here](https://github.com/Code4GovTech/DPG-SCoRe/blob/main/DPG%20SCoRe%202024.pdf) to view the full report.
 
 ## 💬 Share Your Feedback
 
