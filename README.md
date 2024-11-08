@@ -19,3 +19,4 @@ We value your insights and welcome your thoughts on the DPG SCoRe 2024. Please f
 ---
 
 Thank you for taking the time to explore the DPG State of the Community Report 2024 and for being part of the DPG movement!
+![Visitor Count](https://hits.sh/github.com/Code4GovTech/DPG-SCoRe.svg?style=flat-square)
